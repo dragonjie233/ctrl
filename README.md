@@ -31,4 +31,4 @@
 
 ## 功能预览
 
-![DemoPreview_OwoserImg](https://cn-img.owoser.cn/images/2024/03/24/b590beadca3a387d79e2f5dd7f6edd16.gif)
+![DemoPreview_OwoserImg](https://github.com/dragonjie233/ctrl/blob/master/preview.gif)
